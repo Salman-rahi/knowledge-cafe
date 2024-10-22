@@ -1,0 +1,61 @@
+[
+
+    {
+        "id": "001",
+        "cover": "https://i.ibb.co/7VwpSkT/toy-bricks-table.jpg",
+        "title": "The Whispering Shadows",
+        "author": "Emily Carter",
+        "author_img": "https://i.ibb.co/FqT893v/profile.png",
+        "posted_date": "2024-01-15",
+        "reading_time": 3,
+        "hashtags": ["#Fiction", "#Mystery", "#Thriller"]
+    },
+    {
+        "id": "002",
+        "cover": "https://i.ibb.co/xDtJbNj/laptop-gadget-device-notebook-blank-space-concept.jpg",
+        "title": "Journey to the Stars",
+        "author": "Liam Johnson",
+        "author_img": "https://i.ibb.co/mhZx6dn/girl2.jpg",
+        "posted_date": "2024-02-10",
+        "reading_time": 5,
+        "hashtags": ["#SciFi", "#Adventure", "#Space"]
+    },
+    {
+        "id": "003",
+        "cover": "https://i.ibb.co/qBJ1Rqw/flat-lay-desktop-with-laptop-cup-coffee.jpg",
+        "title": "Love in the Time of Algorithms",
+        "author": "Ava Chen",
+        "author_img": "https://i.ibb.co/7gD3Wp3/girl1.jpg",
+        "posted_date": "2024-03-22",
+        "reading_time": 4,
+        "hashtags": ["#Romance", "#Technology", "#Relationships"]
+    },
+    {
+        "id": "004",
+        "cover": "https://i.ibb.co/g331TJb/5227025.jpg",
+        "title": "The Forgotten Kingdom",
+        "author": "Noah Smith",
+        "author_img": "https://i.ibb.co/z4KX0yW/boy2.jpg",
+        "posted_date": "2024-04-05",
+        "reading_time": 6,
+        "hashtags": ["#Fantasy", "#Adventure", "#Epic"]
+    },
+    {
+        "id": "005",
+        "cover": "https://i.ibb.co/QMjKQmW/2.png",
+        "title": "Cooking with Love",
+        "author": "Mia Patel",
+        "author_img": "https://i.ibb.co/KzyHFL1/boy1.png",
+        "posted_date": "2024-05-18",
+        "reading_time": 10,
+        "hashtags": ["#Cookbook", "#Food", "#Recipes"]
+    }
+]
+
+
+
+
+
+
+
+
