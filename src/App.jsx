@@ -12,9 +12,12 @@ function App() {
   }
 
   const [readingTime, setReadingTime] = useState(0);
-  const handleMarkAsRead  = (time) =>{
+  const handleMarkAsRead  = (id,time) =>{
     const newTime = readingTime + time;
     setReadingTime(newTime);
+    // removed read blog 
+    const reamingBookmarks = bookMarks.filter(bookMark => bookMark.id !== id);
+    setBookmarks(reamingBookmarks);
   }
   return (
     <>
